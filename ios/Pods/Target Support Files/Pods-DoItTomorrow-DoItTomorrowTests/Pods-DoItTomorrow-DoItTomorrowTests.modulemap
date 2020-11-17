@@ -1,0 +1,6 @@
+module Pods_DoItTomorrow_DoItTomorrowTests {
+  umbrella header "Pods-DoItTomorrow-DoItTomorrowTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_DoItTomorrow {
+  umbrella header "Pods-DoItTomorrow-umbrella.h"
+
+  export *
+  module * { export * }
+}
